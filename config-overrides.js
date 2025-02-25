@@ -1,3 +1,3 @@
-import { override, useBabelRc } from "customize-cra";
+import { override, useBabelRc } from 'customize-cra';
 
 export default override(useBabelRc());
